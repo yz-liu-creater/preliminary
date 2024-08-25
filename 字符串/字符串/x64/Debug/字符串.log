@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\86176\Desktop\初学代码\字符串\源.cpp(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86176\Desktop\初学代码\字符串\源.cpp(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  字符串.vcxproj -> C:\Users\86176\Desktop\初学代码\字符串\x64\Debug\字符串.exe
